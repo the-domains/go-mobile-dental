@@ -6,9 +6,9 @@ color:
   saturation: 0.43979611387476325
   rhythmicContrast: 0.6606388643849641
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#FFFFFF'
+    - '#00BDFF'
+    - '#014558'
+    - '#FECE00'
+    - '#789CA5'
 name: Go Mobile Dental
